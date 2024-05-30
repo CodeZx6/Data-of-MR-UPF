@@ -1,0 +1,1 @@
+This file is obtained by converting the region description text using CLIP's tokenize function.

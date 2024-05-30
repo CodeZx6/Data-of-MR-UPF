@@ -1,0 +1,1 @@
+This file corresponds one-to-one with the description text for the region labels.
